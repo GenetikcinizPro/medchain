@@ -22,6 +22,7 @@ import {
   Scale,
   X,
   Loader2,
+  Zap,
 } from "lucide-react";
 import { articles } from "@/lib/mock-data";
 import type { Article, PeerReview } from "@/lib/mock-data";
