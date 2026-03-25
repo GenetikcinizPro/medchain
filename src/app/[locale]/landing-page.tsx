@@ -16,6 +16,7 @@ import {
   Award,
   ChevronRight,
   MousePointer2,
+  Zap,
 } from "lucide-react";
 import { useTranslations, useLocale } from "next-intl";
 import { motion, useScroll, useTransform, AnimatePresence, Variants } from "framer-motion";
