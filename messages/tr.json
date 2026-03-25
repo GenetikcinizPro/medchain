@@ -1,0 +1,216 @@
+{
+  "Navigation": {
+    "home": "Ana Sayfa",
+    "dashboard": "Akademik Cüzdan",
+    "bibliography": "Bibliyografi",
+    "citations": "Atıf Zinciri",
+    "guidelines": "Yaşayan Rehberler",
+    "peer-review": "Hakemlik Paneli",
+    "blockchain_active": "Blockchain Aktif",
+    "connection_secure": "Bağlantı güvenli",
+    "platform": "Platform",
+    "go_to_app": "Uygulamaya Git",
+    "sync": "Eşitle",
+    "syncing": "Eşitleniyor...",
+    "orcid_link": "ORCID Bağla",
+    "orcid_synced": "ORCID Bağlandı"
+  },
+  "Common": {
+    "platform": "Platform",
+    "go_to_app": "Uygulamaya Git",
+    "sync": "Eşitle",
+    "syncing": "Eşitleniyor...",
+    "orcid_link": "ORCID Bağla",
+    "orcid_synced": "ORCID Bağlandı"
+  },
+  "Metadata": {
+    "title": "MedChain Library | Blockchain Tıbbi Literatür Platformu",
+    "description": "Blockchain tabanlı tıbbi literatür ve akademik gelişim platformu. Değiştirilemez bilimsel kayıtlar, şeffaf hakemlik ve akademik cüzdan."
+  },
+  "Dashboard": {
+    "title": "Akademik Cüzdan",
+    "subtitle": "Akademik kimliğiniz ve blockchain tabanlı öğrenme kanıtlarınız",
+    "stats": {
+      "publications": "Yayın",
+      "citations": "Atıf",
+      "h_index": "h-index"
+    },
+    "reputation_graph": "Bilimsel İtibar Grafiği",
+    "recent_activity": "Son Aktiviteler",
+    "nft_gallery": "Akademik NFT / Token Galerisi",
+    "rarity": {
+      "legendary": "Efsanevi",
+      "epic": "Destansı",
+      "rare": "Nadir",
+      "common": "Yaygın"
+    },
+    "metrics": {
+      "real_impact": "Gerçek Etki",
+      "data_sharing": "Veri Paylaşımı",
+      "open_science": "Açık Bilim",
+      "citation_quality": "Atıf Kalitesi",
+      "peer_review": "Hakemlik",
+      "reproducibility": "Tekrarlanabilirlik"
+    }
+  },
+  "Landing": {
+    "about": "Hakkımızda",
+    "features": "Özellikler",
+    "network": "Ağımız",
+    "hero_badge": "Yenilmez Literatür Kaydı",
+    "hero_title_1": "Tıbbi Bilginin",
+    "hero_title_2": "Değiştirilemez Geleceği",
+    "hero_subtitle": "Dünyanın ilk blockchain tabanlı sağlık literatürü konsensüs ağı. PubMed, ResearchGate ve Zotero'nun manipüle edilemez Web3 evrimi. Bilimsel doğruları şifreleyerek geleceğe aktarıyoruz.",
+    "cta_join": "Ağa Katıl",
+    "cta_protocol": "Protokolü İncele",
+    "stats": {
+      "verified": "Doğrulanmış Kayıt",
+      "reviewers": "Şeffaf Hakem",
+      "nodes": "Düğümler",
+      "partners": "Kurumsal Partner"
+    },
+    "vision": {
+      "manifesto": "Manifesto",
+      "p1": "Tıbbi araştırma dünyası, şeffaf olmayan hakem süreçleri ve güvenilirliği kanıtlanamayan atıf zincirleri yüzünden her yıl milyarlarca dolar israf ediyor.",
+      "p2": "MedChain, güvenin kodlanmış halidir. Bilimsel verinin doğuşundan itibaren değiştirilemez bir kaderi olmasını savunuyoruz.",
+      "motto": "Açık. Doğrulanabilir. Ölümsüz.",
+      "motto_sub": "MedChain Vakfı Temel İnançları",
+      "headline": "Geleceğin Bilimsel Konsensüs Ağı",
+      "feat1_title": "Sıfır Manipülasyon",
+      "feat1_desc": "Veriler bir kez zincire yazıldığında dünyadaki hiçbir güç tarafından değiştirilemez veya silinemez.",
+      "feat2_title": "Gerçek İtibar Ekonomisi",
+      "feat2_desc": "Sadece yayın sayısı değil; doğrulanmış hakemlikler ve açık veri paylaşımları Academic Wallet'ınızda değere dönüşür.",
+      "feat3_title": "Kolektif Zeka",
+      "feat3_desc": "Sınır tanımayan, sansürlenemeyen küresel bir hakem ve araştırmacı ağı."
+    },
+    "features_title": "Doğruluğun Altyapısı",
+    "feature1_title": "Değiştirilemez Kayıt",
+    "feature1_desc": "Bilimsel kayıtlar hash'lenir ve süresiz olarak küresel ağlara çıpalanır.",
+    "feature2_title": "Ağ Geçişli Konsensüs",
+    "feature2_desc": "Her atıf, bilgi hiyerarşisinde şifrelenmiş doğrulanmış bir düğüm oluşturur.",
+    "feature3_title": "Hakemlik Kanıtı",
+    "feature3_desc": "Sıfır bilgi kanıtı sistemleri, tam hesap verebilirlik ile hakem anonimliğini sağlar.",
+    "explore_paper": "Teknik Raporu İncele",
+    "footer_title": "Yeni Sınıra Katılın",
+    "footer_cta": "Akademik Cüzdanınızı Başlatın",
+    "footer_sub": "Güvenli • Değiştirilemez • Küresel",
+    "trust_is_coded": "Güven Kodlanmıştır."
+  },
+  "Bibliography": {
+    "title": "Bibliyografi & Arama",
+    "subtitle": "Değiştirilemez Literatür Kaydı — Immutable Literature Record",
+    "search_placeholder": "Makale, yazar veya konu ara...",
+    "filters": {
+      "all": "Tümü",
+      "verified": "Doğrulanmış",
+      "updated": "Güncellenen",
+      "retracted": "Geri Çekilmiş"
+    },
+    "results_found": "{count} akademik kayıt bulundu",
+    "external_search": "Dış Veritabanı (PubMed/CrossRef)",
+    "sync_tooltip": "Atıfları CrossRef üzerinden güncelle",
+    "version_history": "Versiyon Geçmişi",
+    "blockchain_verification": "Blockchain Doğrulaması",
+    "citations": "Atıf",
+    "modal": {
+      "title": "Değişiklik Günlüğü",
+      "subtitle": "Eski versiyonlar silinmez — tüm geçmiş blockchain'de korunur",
+      "author": "Yazar",
+      "footer": "Tüm versiyonlar değiştirilemez şekilde blockchain üzerinde saklanmaktadır"
+    },
+    "status": {
+      "verified": "Doğrulanmış",
+      "retracted": "Geri Çekilmiş",
+      "updated": "Güncellendi"
+    }
+  },
+  "PeerReview": {
+    "title": "Şeffaf Hakemlik Paneli",
+    "subtitle": "Transparent Peer Review — Doğrulanabilir ve manipülasyona kapalı hakem süreçleri",
+    "stats": {
+      "total_articles": "Toplam Makale",
+      "total_reviewers": "Toplam Hakem",
+      "acceptance_rate": "Kabul Oranı",
+      "transparent_process": "Şeffaf Süreç"
+    },
+    "how_it_works": {
+      "title": "Şeffaf Hakemlik Nasıl Çalışır?",
+      "description": "Her hakem değerlendirmesi blockchain üzerinde kaydedilir. Hakemlerin kimlikleri, kurumları ve inceleme zaman damgaları şeffafça görülebilir. Bu sayede sahte peer review ve citation farming gibi manipülasyonlar engellenmiş olur."
+    },
+    "verdicts": {
+      "Accept": "Kabul",
+      "Minor Revision": "Küçük Revizyon",
+      "Major Revision": "Büyük Revizyon",
+      "Reject": "Ret"
+    },
+    "verified": "Doğrulanmış",
+    "reviewer_label": "{count} Hakem",
+    "footer": "Tüm hakem değerlendirmeleri blockchain üzerinde şeffaf ve değiştirilemez şekilde kayıtlıdır"
+  },
+  "Citations": {
+    "title": "Atıf Zinciri Görselleştirme",
+    "subtitle": "Citation Chain — Bilimsel soy ağacı ve bilginin evrimi",
+    "info_alert": "Bu görselleştirme, {trial} makalesinden geriye giderek {foundational} noktasına kadar bilginin evrimini adım adım göstermektedir. Her düğüm blockchain üzerinde doğrulanmış bir kaydı temsil eder.",
+    "tree_title": "Bilimsel Soy Ağacı",
+    "detail_panel": {
+      "title": "Seçili Makale Detayı",
+      "labels": {
+        "title": "Başlık",
+        "authors": "Yazarlar",
+        "year": "Yıl",
+        "type": "Tür",
+        "hash": "Blockchain Hash"
+      },
+      "verified_badge": "Doğrulanmış Kayıt"
+    },
+    "references_title": "Referans Verilen Çalışmalar",
+    "legend_title": "Gösterim",
+    "types": {
+      "trial": "Klinik Çalışma",
+      "discovery": "Keşif",
+      "review": "Derleme",
+      "foundational": "Temel Araştırma"
+    }
+  },
+  "Guidelines": {
+    "title": "Yaşayan Rehberler",
+    "subtitle": "Living Guidelines — Klinik kılavuzların değiştirilemez güncel versiyonları",
+    "stats": {
+      "total_guidelines": "Toplam Kılavuz",
+      "active": "Aktif",
+      "under_review": "İncelemede",
+      "total_evidence": "Toplam Kanıt"
+    },
+    "labels": {
+      "organization": "Organizasyon",
+      "version": "Versiyon",
+      "last_updated": "Son Güncelleme",
+      "evidence_sources": "Kanıt Kaynağı",
+      "immutable_record": "Immutable Kayıt"
+    },
+    "change_log": {
+      "title": "Değişiklik Günlüğü",
+      "footer": "Tüm güncelleme kayıtları değiştirilemez şekilde blockchain üzerinde korunmaktadır"
+    },
+    "status": {
+      "active": "Aktif",
+      "under_review": "İncelemede"
+    }
+  },
+  "Footer": {
+    "resources": "Kaynaklar",
+    "resource_items": {
+      "whitepaper": "Whitepaper",
+      "docs": "Dokümantasyon",
+      "api": "API Referansı",
+      "protocol": "Akademik Protokol"
+    },
+    "connect": "Bağlantı",
+    "copyright": "© 2026 MedChain Vakfı. Tüm hakları saklıdır. Bilimsel Konsensüs için inşa edildi.",
+    "legal": {
+      "privacy": "Gizlilik Politikası",
+      "terms": "Kullanım Şartları",
+      "cookie": "Çerez Politikası"
+    }
+  }
+}

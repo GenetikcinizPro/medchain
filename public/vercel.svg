@@ -1,1 +1,49 @@
-<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1155 1000"><path d="m577.3 0 577.4 1000H0z" fill="#fff"/></svg>
+<svg fill="none" viewBox="0 0 280 120" height="120" width="280" xmlns="http://www.w3.org/2000/svg">
+  
+  <defs>
+    <linearGradient y2="100%" x2="100%" y1="0%" x1="0%" id="gradient">
+      <stop stop-color="#0EA5E9" offset="0%"></stop>
+      <stop stop-color="#22D3EE" offset="100%"></stop>
+    </linearGradient>
+    <filter height="140%" width="140%" y="-20%" x="-20%" id="glow">
+      <feGaussianBlur result="coloredBlur" stdDeviation="3"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="coloredBlur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  
+  
+  <rect stroke-width="6" stroke="#22D3EE" fill="#0F172A" ry="8" rx="8" height="38" width="38" y="28" x="18"></rect>
+  
+  <rect stroke-width="6" stroke="#22D3EE" fill="#0F172A" ry="8" rx="8" height="38" width="38" y="28" x="48"></rect>
+  
+  <rect stroke-width="6" stroke="#22D3EE" fill="#0F172A" ry="8" rx="8" height="38" width="38" y="28" x="78"></rect>
+
+  
+  
+  
+  <path stroke-linecap="round" stroke-width="4" stroke="#E0F2FE" fill="none" d="M32 38 Q38 28 44 38 Q50 48 56 38"></path>
+  
+  <path stroke-linecap="round" stroke-width="4" stroke="#E0F2FE" fill="none" d="M32 46 Q38 56 44 46 Q50 36 56 46"></path>
+  
+  <line stroke-width="2.5" stroke="#E0F2FE" y2="46" x2="52" y1="38" x1="36"></line>
+  <line stroke-width="2.5" stroke="#E0F2FE" y2="38" x2="52" y1="46" x1="36"></line>
+
+  
+  
+  <text letter-spacing="-2px" fill="#0F172A" font-weight="800" font-size="42" font-family="system-ui, -apple-system, sans-serif" y="58" x="132">Med</text>
+  
+  <text letter-spacing="-1.5px" fill="#0EA5E9" font-weight="700" font-size="42" font-family="system-ui, -apple-system, sans-serif" y="88" x="132">Chain</text>
+
+  
+  <rect stroke-width="3" stroke="#22D3EE" fill="#0F172A" ry="4" rx="4" height="22" width="22" y="18" x="238"></rect>
+  <rect fill="#22D3EE" height="8" width="8" y="26" x="246"></rect>
+
+  
+  <g filter="url(#glow)">
+    <rect opacity="0.4" stroke-width="3" stroke="#67E8F9" fill="none" ry="8" rx="8" height="38" width="98" y="28" x="18"></rect>
+  </g>
+</svg>

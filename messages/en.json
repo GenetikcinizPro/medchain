@@ -1,0 +1,216 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "dashboard": "Academic Wallet",
+    "bibliography": "Bibliography",
+    "citations": "Citation Chain",
+    "guidelines": "Living Guidelines",
+    "peer-review": "Peer Review Panel",
+    "blockchain_active": "Blockchain Active",
+    "connection_secure": "Connection secure",
+    "platform": "Platform",
+    "go_to_app": "Go to App",
+    "sync": "Sync",
+    "syncing": "Syncing...",
+    "orcid_link": "Link ORCID",
+    "orcid_synced": "ORCID Connected"
+  },
+  "Common": {
+    "platform": "Platform",
+    "go_to_app": "Go to App",
+    "sync": "Sync",
+    "syncing": "Syncing...",
+    "orcid_link": "Link ORCID",
+    "orcid_synced": "ORCID Connected"
+  },
+  "Metadata": {
+    "title": "MedChain Library | Blockchain Medical Literature Platform",
+    "description": "Blockchain-based medical literature and academic development platform. Immutable scientific records, transparent peer review, and academic wallet."
+  },
+  "Dashboard": {
+    "title": "Academic Wallet",
+    "subtitle": "Your academic identity and blockchain-based learning proofs",
+    "stats": {
+      "publications": "Publications",
+      "citations": "Citations",
+      "h_index": "h-index"
+    },
+    "reputation_graph": "Scientific Reputation Graph",
+    "recent_activity": "Recent Activities",
+    "nft_gallery": "Academic NFT / Token Gallery",
+    "rarity": {
+      "legendary": "Legendary",
+      "epic": "Epic",
+      "rare": "Rare",
+      "common": "Common"
+    },
+    "metrics": {
+      "real_impact": "Real Impact",
+      "data_sharing": "Data Sharing",
+      "open_science": "Open Science",
+      "citation_quality": "Citation Quality",
+      "peer_review": "Peer Review",
+      "reproducibility": "Reproducibility"
+    }
+  },
+  "Landing": {
+    "about": "About Us",
+    "features": "Features",
+    "network": "Network",
+    "hero_badge": "Invincible Literature Record",
+    "hero_title_1": "The Immutable",
+    "hero_title_2": "Future of Medical Knowledge",
+    "hero_subtitle": "The world's first blockchain-based healthcare literature consensus network. The tamper-proof Web3 evolution of PubMed, ResearchGate, and Zotero. We encrypt scientific truths for the future.",
+    "cta_join": "Join Network",
+    "cta_protocol": "Explore Protocol",
+    "stats": {
+      "verified": "Verified Records",
+      "reviewers": "Transparent Reviewers",
+      "nodes": "Nodes",
+      "partners": "Institutional Partners"
+    },
+    "vision": {
+      "manifesto": "Manifesto",
+      "p1": "The world of medical research wastes billions of dollars every year due to opaque peer review processes and unverified citation chains.",
+      "p2": "MedChain is trust encoded. We believe that scientific data should have an unalterable destiny from its birth.",
+      "motto": "Open. Verifiable. Immortal.",
+      "motto_sub": "MedChain Foundation Core Beliefs",
+      "headline": "Scientific Consensus Network of the Future",
+      "feat1_title": "Zero Manipulation",
+      "feat1_desc": "Once data is written to the chain, no power in the world can change or delete it.",
+      "feat2_title": "Real Reputation Economy",
+      "feat2_desc": "Not just publication count; verified reviews and open data sharing turn into value in your Academic Wallet.",
+      "feat3_title": "Collective Intelligence",
+      "feat3_desc": "A borderless, uncensorable global network of reviewers and researchers."
+    },
+    "features_title": "The Infrastructure of Truth",
+    "feature1_title": "Immutable Registry",
+    "feature1_desc": "Scientific records hashed and anchored to global mainnets indefinitely.",
+    "feature2_title": "Networked Consensus",
+    "feature2_desc": "Every citation forms a cryptographically verified node in the truth hierarchy.",
+    "feature3_title": "Proof of Peer Review",
+    "feature3_desc": "Zero-knowledge proof systems ensure reviewer anonymity with total accountability.",
+    "explore_paper": "Explore Technical Paper",
+    "footer_title": "Join the Next Frontier",
+    "footer_cta": "Start Your Academic Wallet",
+    "footer_sub": "Secure • Immutable • Global",
+    "trust_is_coded": "Trust is Coded."
+  },
+  "Bibliography": {
+    "title": "Bibliography & Search",
+    "subtitle": "Immutable Literature Record",
+    "search_placeholder": "Search articles, authors or topics...",
+    "filters": {
+      "all": "All",
+      "verified": "Verified",
+      "updated": "Updated",
+      "retracted": "Retracted"
+    },
+    "results_found": "{count} academic records found",
+    "external_search": "External Database (PubMed/CrossRef)",
+    "sync_tooltip": "Update citations from CrossRef",
+    "version_history": "Version History",
+    "blockchain_verification": "Blockchain Verification",
+    "citations": "Citations",
+    "modal": {
+      "title": "Change Log",
+      "subtitle": "Old versions are not deleted — entire history is preserved on blockchain",
+      "author": "Author",
+      "footer": "All versions are stored immutably on the blockchain"
+    },
+    "status": {
+      "verified": "Verified",
+      "retracted": "Retracted",
+      "updated": "Updated"
+    }
+  },
+  "PeerReview": {
+    "title": "Transparent Peer Review Panel",
+    "subtitle": "Verifiable and manipulation-resistant peer review processes",
+    "stats": {
+      "total_articles": "Total Articles",
+      "total_reviewers": "Total Reviewers",
+      "acceptance_rate": "Acceptance Rate",
+      "transparent_process": "Transparent Process"
+    },
+    "how_it_works": {
+      "title": "How Transparent Peer Review Works?",
+      "description": "Every peer review evaluation is recorded on the blockchain. Reviewers' identities, institutions, and review timestamps are transparently visible. This prevents manipulations such as fake peer review and citation farming."
+    },
+    "verdicts": {
+      "Accept": "Accept",
+      "Minor Revision": "Minor Revision",
+      "Major Revision": "Major Revision",
+      "Reject": "Reject"
+    },
+    "verified": "Verified",
+    "reviewer_label": "{count} Reviewers",
+    "footer": "All peer review evaluations are recorded transparently and immutably on the blockchain"
+  },
+  "Citations": {
+    "title": "Citation Chain Visualization",
+    "subtitle": "Scientific pedigree and the evolution of knowledge",
+    "info_alert": "This visualization step by step shows the evolution of knowledge from {trial} back to {foundational}. Each node represents a verified record on the blockchain.",
+    "tree_title": "Scientific Pedigree",
+    "detail_panel": {
+      "title": "Selected Article Detail",
+      "labels": {
+        "title": "Title",
+        "authors": "Authors",
+        "year": "Year",
+        "type": "Type",
+        "hash": "Blockchain Hash"
+      },
+      "verified_badge": "Verified Record"
+    },
+    "references_title": "Referenced Works",
+    "legend_title": "Legend",
+    "types": {
+      "trial": "Clinical Trial",
+      "discovery": "Discovery",
+      "review": "Review",
+      "foundational": "Foundational Research"
+    }
+  },
+  "Guidelines": {
+    "title": "Living Guidelines",
+    "subtitle": "Immutable up-to-date versions of clinical guidelines",
+    "stats": {
+      "total_guidelines": "Total Guidelines",
+      "active": "Active",
+      "under_review": "Under Review",
+      "total_evidence": "Total Evidence"
+    },
+    "labels": {
+      "organization": "Organization",
+      "version": "Version",
+      "last_updated": "Last Updated",
+      "evidence_sources": "Evidence Sources",
+      "immutable_record": "Immutable Record"
+    },
+    "change_log": {
+      "title": "Change Log",
+      "footer": "All update logs are immutably preserved on the blockchain"
+    },
+    "status": {
+      "active": "Active",
+      "under_review": "Under Review"
+    }
+  },
+  "Footer": {
+    "resources": "Resources",
+    "resource_items": {
+      "whitepaper": "Whitepaper",
+      "docs": "Documentation",
+      "api": "API Reference",
+      "protocol": "Academic Protocol"
+    },
+    "connect": "Connect",
+    "copyright": "© 2026 MedChain Foundation. All rights reserved. Built for the Scientific Consensus.",
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookie": "Cookie Policy"
+    }
+  }
+}
