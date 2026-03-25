@@ -1,0 +1,5 @@
+import DashboardPage from "../page.tsx.bak";
+
+export default function Dashboard() {
+  return <DashboardPage />;
+}
